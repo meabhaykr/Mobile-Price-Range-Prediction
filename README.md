@@ -59,6 +59,8 @@ The dataset comprises various features associated with mobile phones and their c
 - **K-Nearest Neighbors**:
 - **Support Vector Machine (SVM)**: Achieved a test accuracy of 96% after hyperparameter tuning, outperforming other models.
 
+![Model Performance](https://github.com/meabhaykr/Mobile-Price-Range-Prediction/blob/main/Model%20Performance.png)
+
 ## Conclusion
 
 The Support Vector Machine model demonstrated superior performance in predicting mobile phone price ranges. By leveraging this predictive model, mobile phone companies can gain valuable insights into the factors driving prices and make informed decisions to remain competitive in the dynamic market.
