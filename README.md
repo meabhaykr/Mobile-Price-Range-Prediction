@@ -1,4 +1,4 @@
-# Mobile-Price-Range-Prediction
+<h1 align="center">Mobile Price Range Prediction</h1>
 
 ![Mobile Range Poster](https://github.com/meabhaykr/Mobile-Price-Range-Prediction/blob/main/Mobile%20Range%20Poster.jpg)
 
