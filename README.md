@@ -2,8 +2,6 @@
 
 ![Mobile Range Poster](https://github.com/meabhaykr/Mobile-Price-Range-Prediction/blob/main/Mobile%20Range%20Poster.jpg)
 
-# Mobile Phone Price Range Prediction
-
 ## Overview
 
 In the competitive mobile phone market, understanding the factors influencing prices is crucial for companies to make informed decisions regarding product offerings and pricing strategies. This project aims to predict price ranges of mobile phones based on various features using machine learning techniques.
