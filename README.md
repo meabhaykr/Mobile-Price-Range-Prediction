@@ -1,6 +1,6 @@
 # Mobile-Price-Range-Prediction
 
-![Mobile Price Range Poster](https://github.com/meabhaykr/Mobile-Price-Range-Prediction/blob/main/Mobile%20Price%20Range%20Poster.jpg)
+![Mobile Range Poster](https://github.com/meabhaykr/Mobile-Price-Range-Prediction/blob/main/Mobile%20Range%20Poster.jpg)
 
 # Mobile Phone Price Range Prediction
 
